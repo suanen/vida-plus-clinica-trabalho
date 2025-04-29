@@ -27,34 +27,6 @@ Objetivo
 --------
 Criar uma solução que auxilie na organização de atividades clínicas, rotinas de trabalho e práticas de promoção da qualidade de vida.
 
------------------------------------------------------------
-Passo a Passo dos Botões Funcionais
-------------------------------------------------------------
-Cadastrar Usuário
-------------------
-
-Acesse o menu "Cadastro".
-
-Clique em "Paciente".
-
-Preencha os campos obrigatórios e confirme para salvar.
-
-Registrar Atividade
-
-No menu "Atividades", selecione "Nova Atividade".
-
-Informe o tipo de atividade (trabalho, saúde, bem-estar).
-
-Salve a atividade cadastrada.
-
-Visualizar Dados
-
-Vá até o menu "Consultar".
-
-Escolha entre visualizar usuários ou atividades cadastradas.
-
-Os dados serão exibidos em formato de lista ou tabela.
-
 -------------------------------------------------------------------------------------
 
 Passo a Passo dos Botões Funcionais
