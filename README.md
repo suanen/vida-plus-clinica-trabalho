@@ -22,6 +22,7 @@ Passo a Passo dos Botões Funcionais
 -----------------------------------
 
 1. Cadastrar Paciente
+   
 Na página inicial, clique em Cadastro no menu.
 
 Depois, selecione Paciente.
